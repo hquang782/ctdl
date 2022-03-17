@@ -21,3 +21,8 @@ int main() {
         cout << tinh(n, k) << endl;
     }
 }
+// 2
+
+// 2 2
+
+// 4 2
