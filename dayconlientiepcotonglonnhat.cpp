@@ -7,7 +7,7 @@ void qhd(int a[],int n){
         e=max(a[i],e+a[i]);
         s=max(s,e);
     }
-    cout<<s;
+    cout<<s<<endl;
 }
 
 int main() {
